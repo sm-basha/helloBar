@@ -114,6 +114,7 @@ hr{border-top: 1px solid #fff;}
     margin: 0 50px;
     color: #fff;
 }
+.footer-item:hover{color: #fff; font-weight: 500;text-decoration: none;}
 
 
 
